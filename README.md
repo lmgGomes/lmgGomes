@@ -155,11 +155,8 @@ Gosto muito de tecnologia e busco constantemente aprimorar minhas habilidades pa
 
 ### 📊 Estatísticas
 
-<div align="center">
-    <a href="https://github.com/lmgGomes">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmgGomes&show_icons=true&locale=pt-br&theme=dracula"/>
-    </a>
-    <a href="https://github.com/lmgGomes">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmgGomes&layout=compact&custom_title=Principais%20Linguagens&langs_count=6&theme=dracula"/>
-    </a>
-</div>
+<a href="https://github.com/lmgGomes">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmgGomes&theme=radical" alt="Estatísticas do Perfil" />
+</a>
+
+---
