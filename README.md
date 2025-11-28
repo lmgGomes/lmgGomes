@@ -7,9 +7,9 @@ Me chamo Lucas Gomes. Sou estudante de Engenharia da Computação e atualmente e
 Gosto muito de tecnologia e busco constantemente aprimorar minhas habilidades para atuar como Programador, focando na lógica e na escrita de código eficiente.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.instagram.com/lmg.gomes/">
         <img 
-            alt="youtube subscribers" 
+            alt="instagram follows" 
             title="" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
