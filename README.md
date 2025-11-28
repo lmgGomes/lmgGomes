@@ -6,7 +6,7 @@
 Me chamo Lucas Gomes. Sou estudante de Engenharia da Computação e atualmente estou no terceiro semestre.
 Gosto muito de tecnologia e busco constantemente aprimorar minhas habilidades para atuar como Programador, focando na lógica e na escrita de código eficiente.
 
-[!Instagram]: (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [https://instagram.com/lmg.gomes]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lmg.gomes)
 <p align="left">
     <a href="https://github.com/lmgGomes?tab=repositories&sort=stargazers">
         <img 
