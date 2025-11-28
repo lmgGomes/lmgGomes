@@ -10,7 +10,7 @@ Gosto muito de tecnologia e busco constantemente aprimorar minhas habilidades pa
     <a href="https://www.instagram.com/lmg.gomes/">
         <img 
             alt="instagram follows" 
-            title="" 
+            title="me siga" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=me siga&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
