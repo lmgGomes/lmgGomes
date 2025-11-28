@@ -153,3 +153,13 @@ Gosto muito de tecnologia e busco constantemente aprimorar minhas habilidades pa
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
+### 📊 Estatísticas
+
+<div align="center">
+    <a href="https://github.com/lmgGomes">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmgGomes&show_icons=true&locale=pt-br&theme=dracula"/>
+    </a>
+    <a href="https://github.com/lmgGomes">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmgGomes&layout=compact&custom_title=Principais%20Linguagens&langs_count=6&theme=dracula"/>
+    </a>
+</div>
