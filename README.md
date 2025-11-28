@@ -3,6 +3,7 @@
 **`Estudante de engenharia da computação`**
 
 💻 Meu Perfil
+
 Me chamo Lucas Gomes. Sou estudante de Engenharia da Computação e atualmente estou no terceiro semestre.
 Gosto muito de tecnologia e busco constantemente aprimorar minhas habilidades para atuar como Programador, focando na lógica e na escrita de código eficiente.
 
