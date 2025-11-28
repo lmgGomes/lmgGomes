@@ -6,6 +6,24 @@
 Me chamo Lucas Gomes. Sou estudante de Engenharia da Computação e atualmente estou no terceiro semestre.
 Gosto muito de tecnologia e busco constantemente aprimorar minhas habilidades para atuar como Programador, focando na lógica e na escrita de código eficiente.
 
+[!Instagram]: (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [https://instagram.com/lmg.gomes]
+<p align="left">
+    <a href="https://github.com/lmgGomes?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/lmgGomes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/lmgGomes?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/lmgGomes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
