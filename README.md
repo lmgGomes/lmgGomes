@@ -4,8 +4,8 @@
 
 💻 Meu Perfil
 
-Meu nome é Lucas Gomes. Sou estudante de Engenharia da Computação e atualmente estou no terceiro semestre.
-Gosto muito de tecnologia e busco constantemente aprimorar minhas habilidades para atuar como Programador, focando na lógica e na escrita de código eficiente.
+My name is Lucas Gomes. I am a Computer Engineering student, currently in my fourth semester.
+I am passionate about technology and constantly seek to improve my skills to work as a programmer, focusing on logic and writing efficient code.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lmg.gomes)
 <p align="left">
