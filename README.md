@@ -2,7 +2,7 @@
 
 **`Estudante de engenharia da computação`**
 
-💻 Meu Perfil
+💻 My Profile
 
 My name is Lucas Gomes. I am a Computer Engineering student, currently in my fourth semester.
 I am passionate about technology and constantly seek to improve my skills to work as a programmer, focusing on logic and writing efficient code.
